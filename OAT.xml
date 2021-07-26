@@ -68,7 +68,7 @@ Note:If the text contains special characters, please escape them according to th
 			</policy>
 		</policylist>
         <licensematcherlist>
-            <licensematcher name="GPL-2.0+" desc="">
+            <licensematcher name="GPL-2.0+" desc="If the scanning result is InvalidLicense, you can define matching rules here. Note that quotation marks must be escaped.">
                 <licensetext name="
                      This program is free software; you can redistribute it and/or
                      modify it under the terms of the GNU General Public License
