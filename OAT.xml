@@ -76,7 +76,6 @@ Note:If the text contains special characters, please escape them according to th
 				<filteritem type="filepath" name="FAQ" desc="not used in ohos "/>
 				<filteritem type="filepath" name="INSTALL" desc="not used in ohos "/>
 				<filteritem type="filepath" name="lib/crypto_backend/argon2/LICENSE " desc="LICENSE file"/>
-				<filteritem type="filepath" name="json-c/Doxyfile " desc="not used in ohos "/>
 			</filefilter>
 		</filefilterlist>		
 		<licensematcherlist>
