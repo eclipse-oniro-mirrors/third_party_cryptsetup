@@ -17,8 +17,8 @@
         "third-party",
         "cryptsetup"
     ],
-    "envs": [],
-    "dirs": [],
+    "envs": {},
+    "dirs": {},
     "segment": {
         "destPath": "third_party/cryptsetup"
     },
